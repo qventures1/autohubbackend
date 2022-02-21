@@ -1,0 +1,457 @@
+{
+    "_comment": "Contains all server response messages against MSG_LOCALE configured in settings",
+
+    "1000": {
+        "msg": {
+            "en": "Successful",
+            "ar": ""
+        }
+    },
+
+    "1001": {
+        "msg": {
+            "en": "Unsuccessful",
+            "ar": ""
+        }
+    },
+
+    "1002": {
+        "msg": {
+            "en": "Something went wrong",
+            "ar": ""
+        }
+    },
+
+    "100": {
+        "msg": {
+            "en": "Mandatory keys not provided",
+            "ar": ""
+        }
+    },
+
+    "101": {
+        "msg": {
+            "en": "user_type not supported",
+            "ar": ""
+        }
+    },
+
+    "102": {
+        "msg": {
+            "en": "Request payload field error",
+            "ar": ""
+        }
+    },
+
+    "103": {
+        "msg": {
+            "en": "User Profile created successfully",
+            "ar": ""
+        }
+    },
+
+    "104": {
+        "msg": {
+            "en": "User not found",
+            "ar": ""
+        }
+    },
+
+    "105": {
+        "msg": {
+            "en": "Email is required",
+            "ar": ""
+        }
+    },
+
+    "106": {
+        "msg": {
+            "en": "Phone number length must be 13 digits",
+            "ar": ""
+        }
+    },
+
+    "107": {
+        "msg": {
+            "en": "Phone number can only contain digits",
+            "ar": ""
+        }
+    },
+
+    "108": {
+        "msg": {
+            "en": "User Profile updated successfully",
+            "ar": ""
+        }
+    },
+
+    "109": {
+        "msg": {
+            "en": "Service Provider does not exist",
+            "ar": ""
+        }
+    },
+
+
+
+
+
+
+
+
+
+    "202": {
+        "msg": {
+            "en": "Email and Password required for login",
+            "ar": ""
+        }
+    },
+
+    "203": {
+        "msg": {
+            "en": "Invalid Contact Number or Password",
+            "ar": ""
+        }
+    },
+
+    "204": {
+        "msg": {
+            "en": "Login successful",
+            "ar": ""
+        }
+    },
+
+    "205": {
+        "msg": {
+            "en": "Token Invalid or Not Provided",
+            "ar": ""
+        }
+    },
+
+    "206": {
+        "msg": {
+            "en": "Logout successful",
+            "ar": ""
+        }
+    },
+
+    "207": {
+        "msg": {
+            "en": "User email invalid",
+            "ar": ""
+        }
+    },
+
+    "208": {
+        "msg": {
+            "en": "Incorrect Password",
+            "ar": ""
+        }
+    },
+
+    "209": {
+        "msg": {
+            "en": "Password changed successfully",
+            "ar": ""
+        }
+    },
+
+    "210": {
+        "msg": {
+            "en": "Verification code sent on registered contact number",
+            "ar": ""
+        }
+    },
+
+    "211": {
+        "msg": {
+            "en": "Forgot password code verification failed",
+            "ar": ""
+        }
+    },
+
+    "212": {
+        "msg": {
+            "en": "Forgot password code verification successful",
+            "ar": ""
+        }
+    },
+
+    "213": {
+        "msg": {
+            "en": "Forgot password code not verified",
+            "ar": ""
+        }
+    },
+
+    "214": {
+        "msg": {
+            "en": "Password reset successfully",
+            "ar": ""
+        }
+    },
+
+
+    "301": {
+        "msg": {
+            "en": "Service provider created successfully",
+            "ar": ""
+        }
+    },
+
+    "302": {
+        "msg": {
+            "en": "Service provider not found",
+            "ar": ""
+        }
+    },
+    "430": {
+        "msg": {
+            "en": "Customer Profile created successfully",
+            "ar": ""
+        }
+    },
+
+    "432": {
+        "msg": {
+            "en": "Product created successfully",
+            "ar": ""
+        }
+    },
+
+    "433": {
+        "msg": {
+            "en": "Products not found",
+            "ar": ""
+        }
+    },
+    "434": {
+        "msg": {
+            "en": "Vendor created successfully",
+            "ar": ""
+        }
+    },
+    "435": {
+        "msg": {
+            "en": "Vendor not found",
+            "ar": ""
+        }
+    },
+    "436": {
+        "msg": {
+            "en": "Contact number is required",
+            "ar": ""
+        }
+    },
+
+    "437":{
+        "msg":{
+            "en":"Vendor Update successfully",
+            "ar":""
+        }
+    },
+    "438": {
+        "msg": {
+            "en": " Vehicle add successfully",
+            "ar": ""
+        }
+    },
+    "439": {
+        "msg": {
+            "en": "Customer Vehicle Details add successfully",
+            "ar":""
+        }
+    },
+    "440": {
+        "msg": {
+            "en": "Products id required ",
+            "ar": ""
+        }
+    },
+    "441": {
+        "msg": {
+            "en": "Products Update  successfully",
+            "ar": ""
+        }
+    },
+    "442":{
+        "msg":{
+            "en":"Service Add Successfully",
+            "ar":""
+        }
+    },
+    "443":{
+        "msg":{
+            "en":"Service not found",
+            "ar":""
+        }
+    },
+    "444": {
+        "msg": {
+            "en": "Service Update  Successfully",
+            "ar": ""
+        }
+    },
+    "445": {
+        "msg": {
+            "en": "Service id required ",
+            "ar": ""
+        }
+    },
+    "446": {
+        "msg": {
+            "en": "Service Provider Service Add Successfully",
+            "ar":""
+        }
+    },
+    "447": {
+        "msg": {
+            "en": "Service Provider Services Update  Successfully",
+            "ar": ""
+        }
+    },
+    "448": {
+        "msg": {
+            "en": "Otp is Sent Successfully",
+            "ar": ""
+        }
+    },
+    "449": {
+        "msg": {
+            "en": "There is no more product available",
+            "ar": ""
+        }
+    },
+    "450": {
+        "msg": {
+            "en": "Product Category add Successfully",
+            "ar": ""
+        }
+    },
+    "452": {
+        "msg": {
+            "en": "Category not found",
+            "ar": ""
+        }
+    },
+    "453": {
+        "msg": {
+            "en": "Product Category Update Successfully",
+            "ar": ""
+        }
+    },
+    "454": {
+        "msg": {
+            "en": "Products id required ",
+            "ar": ""
+        }
+    },
+    "455": {
+        "msg": {
+            "en": "Campaign created successfully",
+            "ar": ""
+        }
+    },
+    "456": {
+        "msg": {
+            "en": "Campaign not found",
+            "ar": ""
+        }
+    },
+    "457": {
+        "msg": {
+            "en": "Campaign Update Successfully",
+            "ar": ""
+        }
+    },
+    "458": {
+        "msg": {
+            "en": "Campaign id required ",
+            "ar": ""
+        }
+    },
+    "459": {
+        "msg": {
+            "en": "Coupon Add Successfully",
+            "ar": ""
+        }
+    },
+    "460": {
+        "msg": {
+            "en": "Coupon not found",
+            "ar": ""
+        }
+    },
+    "461": {
+        "msg": {
+            "en": "Coupon Update Successfully",
+            "ar": ""
+        }
+    },
+    "462": {
+        "msg": {
+            "en": "Coupon id required ",
+            "ar": ""
+        }
+    },
+    "463": {
+        "msg": {
+            "en": "Delivery Cost Add Successfully",
+            "ar": ""
+        }
+    },
+    "464": {
+        "msg": {
+            "en": "Delivery Cost not found",
+            "ar": ""
+        }
+    },
+    "465": {
+        "msg": {
+            "en": "Delivery Cost Update Successfully",
+            "ar": ""
+        }
+    },
+    "466": {
+        "msg": {
+            "en": "Delivery Cost id required ",
+            "ar": ""
+        }
+    },
+    "467": {
+        "msg": {
+            "en": "Derlivery Cost not found",
+            "ar": ""
+        }
+    },
+    "468": {
+        "msg": {
+            "en": "Invalid Contact number or Password",
+            "ar": ""
+        }
+    },
+    "469": {
+        "msg": {
+            "en": "User contact number invalid",
+            "ar": ""
+        }
+    },
+    "470": {
+        "msg": {
+            "en": "Otp verification failed",
+            "ar": ""
+        }
+    },
+
+    "471": {
+        "msg": {
+            "en": "Otp verification successful",
+            "ar": ""
+        }
+    }
+
+
+
+
+
+}
